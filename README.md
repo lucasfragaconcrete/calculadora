@@ -14,7 +14,6 @@ _calculadora_main: Calculadora com interface básica.
 
 
 OBS:
-
 para rodar o teste do code => Entrar na pasta e colocar no terminal: 'ruby calculadora_main.rb'
 
 ## [spec]
@@ -22,5 +21,4 @@ _calculadora_spec: Teste unitário da calculadora.
 
 
 OBS:
-
 para rodar o teste do spec => Entrar na pasta e colocar no terminal: 'rspec calculadora_spec.rb'
