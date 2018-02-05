@@ -1,4 +1,4 @@
-###### Calculadora - Concrete
+# Calculadora - Concrete
 
 _Exercício de criação de uma calculadora com operações básicas em Ruby.
 _Teste unitário sendo feito com framework .rspec
