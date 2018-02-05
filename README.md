@@ -13,12 +13,12 @@ _calculadora: Métodos da calculadora.
 _calculadora_main: Calculadora com interface básica.
 
 
-OBS:
+*OBS:*
 para rodar o teste do code => Entrar na pasta e colocar no terminal: 'ruby calculadora_main.rb'
 
 ## [spec]
 _calculadora_spec: Teste unitário da calculadora.
 
 
-OBS:
+*OBS:*
 para rodar o teste do spec => Entrar na pasta e colocar no terminal: 'rspec calculadora_spec.rb'
