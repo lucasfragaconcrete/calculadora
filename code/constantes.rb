@@ -1,10 +1,11 @@
 class Constantes
     
-    ERRO_DIVISAO_POR_ZERO = 'divided by 0'.freeze
-    MENSAGEM_DIVISAO_POR_ZERO = 'Não é possivel dividir por zero.'.freeze
-    MENSAGEM_OPCAO_INVALIDA = 'Por favor insira uma opcão válida e tente novamente.'.freeze
-    MENSAGEM_FORMATO_INVALIDO = 'Formato Inválido. Tente novamente.'.freeze
-    MENSAGEM_CONTINUAR = 'Digite 0 para sair da calculadora ou qualquer outro número para continuar:'.freeze
+    # frozen_string_literal: true
+    ERRO_DIVISAO_POR_ZERO = 'divided by 0'
+    MENSAGEM_DIVISAO_POR_ZERO = 'Não é possivel dividir por zero.'
+    MENSAGEM_OPCAO_INVALIDA = 'Por favor insira uma opcão válida e tente novamente.'
+    MENSAGEM_FORMATO_INVALIDO = 'Formato Inválido. Tente novamente.'
+    MENSAGEM_CONTINUAR = 'Digite 0 para sair da calculadora ou qualquer outro número para continuar:'
 
     SOMA = 1
     SUBTRACAO = 2
@@ -18,6 +19,5 @@ class Constantes
     MULTIPLICACAO => '*',
     DIVISAO => '/',
     SAIR => 'sair da calculadora'
-    }.freeze
-    
+    } 
 end
